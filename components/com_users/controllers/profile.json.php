@@ -47,3 +47,5 @@ class UsersControllerProfile extends UsersController
 		JFactory::getApplication()->close();
 	}
 }
+
+//Greetings. Abdulhadi Waheed. Test #2
